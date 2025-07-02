@@ -1,9 +1,6 @@
 <br clear="both">
-
-<h2 align="center">Bem vindo</h2>
-
 ###
-<h3>Me chamo Guilherme vicente dos Santos</h3>
+<h2 align="center">Olá, Sou Guilherme Vicente!</h2>
 <h5 align="left">Sou estudante de Eng.Elétrica da <i><a href="https://ufal.br/">Ufal</a></i></h5> 
 
 ###
